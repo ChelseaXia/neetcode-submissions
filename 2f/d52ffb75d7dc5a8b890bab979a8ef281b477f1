@@ -1,0 +1,66 @@
+"Data Structures & Algorithms/find-all-anagrams-in-a-string/submission-0.py"
+  s_683315f7b37526::t_e5a8f8534e159c 1-28 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a6c4a58ee694e7b7133f90e","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,28]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2fd52ffb75d7dc5a8b890bab979a8ef281b477f1",
+  "prompts": {},
+  "sessions": {
+    "s_683315f7b37526": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a6a26197cff0b0da7b07e29",
+        "model": "DeepSeek-V4-Pro__dev"
+      },
+      "human_author": "ChelseaXia <zijingixa@outlook.com>"
+    }
+  },
+  "attestation_metadata": {
+    "Data Structures & Algorithms/find-all-anagrams-in-a-string/submission-0.py": [
+      {
+        "hash": "s_683315f7b37526::t_e5a8f8534e159c",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              28
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a6c4a58ee694e7b7133f90e",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  28
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_683315f7b37526": {
+      "tool": "trae",
+      "conversation_id": "6a6a26197cff0b0da7b07e29",
+      "session_id": "6a6a26197cff0b0da7b07e29",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_683315f7b37526::t_e5a8f8534e159c": {
+      "tool": "trae",
+      "conversation_id": "6a6a26197cff0b0da7b07e29",
+      "session_id": "6a6a26197cff0b0da7b07e29",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
